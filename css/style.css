@@ -1,0 +1,53 @@
+/*Header*/
+header {
+  background-color: antiquewhite; }
+  header nav {
+    margin: 0px;
+    color: darkgreen;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row; }
+  header a {
+    text-decoration: none;
+    font-family: cursive; }
+
+/*Main*/
+main h1 {
+  color: darkmagenta; }
+
+main #informacion {
+  text-align: center; }
+
+main h2 {
+  color: darkgoldenrod;
+  font-style: bold; }
+
+main div {
+  font-size: 24px; }
+
+main button {
+  margin: 10px;
+  text-align: center;
+  justify-content: center;
+  background: darkblue;
+  color: darkgray;
+  border: 1px red solid;
+  border-radius: 10px; }
+
+/*Footer*/
+footer #footer-con {
+  display: flex;
+  justify-content: space-between; }
+
+footer div {
+  background-color: aqua; }
+
+footer .centro {
+  background-color: wheat;
+  color: darkgreen;
+  font-size: 14px;
+  border: 1px salmon solid;
+  padding: 15px; }
+
+body {
+  background: darkcyan; }

@@ -1,0 +1,19 @@
+footer{
+
+    #footer-con{
+        display: flex;
+        justify-content: space-between;
+    }
+    div{
+        background-color: aqua;
+    }
+
+    .centro {
+        background-color: wheat ;
+        color: darkgreen;
+        font-size: 14px;
+        border: 1px salmon solid;
+        padding: 15px;
+    }
+}
+
