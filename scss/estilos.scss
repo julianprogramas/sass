@@ -1,14 +1,14 @@
 /*Header*/
-@import"_header";
+@import"header";
 
 
 /*Main*/
-@import"_main";
+@import"main";
 
 
 /*Footer*/
 
-@import"_footer";
+@import"footer";
 
 
 body{
@@ -25,3 +25,15 @@ main{
    
 }
 
+$ancho: 720px;
+$blue: #4285F4;
+$green: #33D374;
+
+.box_uno {
+         background-color: $blue;
+          width: $ancho/2; /* Ancho de 360*/
+}
+.box_dos {
+            background-color: $green;
+             width: ($ancho/2)-50;
+}

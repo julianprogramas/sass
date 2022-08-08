@@ -55,3 +55,12 @@ body {
 /*Variables*/
 main {
   padding: 154px; }
+
+.box_uno {
+  background-color: #4285F4;
+  width: 360px;
+  /* Ancho de 360*/ }
+
+.box_dos {
+  background-color: #33D374;
+  width: 310px; }
